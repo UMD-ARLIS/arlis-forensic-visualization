@@ -1,0 +1,83 @@
+incident_id,Severity,Near Miss,AI Techniques
+4,Severe,Harm caused,autonomous vehicle
+4,Severe,Harm caused,LIDAR
+5,Severe,Harm caused,Robotic surgery tools
+6,Minor,Harm caused,content creation
+6,Minor,Harm caused,language recognition
+6,Minor,Harm caused,natural language processing
+8,Negligible,Near miss,autonomous vehicle
+8,Negligible,Near miss,LIDAR
+8,Negligible,Near miss,radar
+9,Negligible,Harm caused,value-added mesaurements
+13,Minor,Harm caused,machine learning
+13,Minor,Harm caused,open-source
+14,Negligible,Harm caused,Google Cloud Natural Language Processing API
+16,Minor,Harm caused,image classification
+18,Minor,Harm caused,Google Image
+18,Minor,Harm caused,image processing
+20,Severe,Harm caused,autonomous vehicle
+20,Severe,Harm caused,autonomous vehicle
+22,Negligible,Near miss,Interpreting traffic patterns
+22,Negligible,Near miss,travel time estimation
+23,Minor,Harm caused,autonomous vehicle
+23,Minor,Harm caused,autonomous vehicle
+23,Minor,Harm caused,environment sensors
+23,Minor,Harm caused,radar
+23,Minor,Harm caused,sonar
+25,Negligible,Near miss,autonomous vehicle
+25,Negligible,Near miss,decision trees
+25,Negligible,Near miss,environment sensors
+27,Negligible,Near miss,image recognition
+27,Negligible,Near miss,Oko satellites
+28,Minor,Harm caused,machine learning
+28,Minor,Harm caused,stock market algorithm
+33,Negligible,Harm caused,AI enabled personal assistants
+33,Negligible,Harm caused,AI enabled personal assistants
+34,Negligible,Harm caused,AI enabled personal assistants
+34,Negligible,Harm caused,AI enabled personal assistants
+34,Negligible,Harm caused,language recognition
+34,Negligible,Harm caused,natural language processing
+37,Negligible,Near miss,natural language processing
+39,Negligible,Near miss,GANs
+39,Negligible,Near miss,neural network
+40,Minor,Near miss,law enforcement algorithm
+43,Moderate,Harm caused,machine learning
+44,Negligible,Near miss,machine learning
+51,Minor,Harm caused,machine learning
+52,Severe,Harm caused,autonomous vehicle
+58,Negligible,Harm caused,AI enabled personal assistants
+58,Negligible,Harm caused,AI enabled personal assistants
+58,Negligible,Harm caused,language recognition
+59,Negligible,Harm caused,Google Translate
+61,Negligible,Near miss,machine learning
+61,Negligible,Near miss,neural network
+61,Negligible,Near miss,neural network
+61,Negligible,Near miss,open-source
+61,Negligible,Near miss,supervised learning
+67,Negligible,Near miss,autonomous vehicle
+71,Negligible,Harm caused,deep learning
+71,Negligible,Harm caused,driving lane detection
+71,Negligible,Harm caused,image classification
+71,Negligible,Harm caused,object detection
+71,Negligible,Harm caused,scene segmentation
+72,Moderate,Harm caused,natural language processing
+73,Negligible,Harm caused,Game AI
+74,Moderate,Harm caused,environment sensors
+74,Moderate,Harm caused,facial recognition
+74,Moderate,Harm caused,machine learning
+76,Minor,Harm caused,environment sensors
+76,Minor,Harm caused,facial recognition
+76,Minor,Harm caused,machine learning
+78,Minor,Harm caused,machine learning
+80,Negligible,Harm caused,supervised learning
+86,Minor,Harm caused,machine learning
+88,Minor,Harm caused,open source
+88,Minor,Harm caused,supervised learning
+89,Moderate,Harm caused,machine learning
+92,Minor,Harm caused,daya analytics
+92,Minor,Harm caused,machine learning
+93,Moderate,Harm caused,machine learning
+94,Moderate,Harm caused,machine learning
+96,Moderate,Harm caused,machine learning
+97,Negligible,Near miss,computer vision
+101,Moderate,Harm caused,risk assessment

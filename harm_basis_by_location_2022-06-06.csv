@@ -1,0 +1,62 @@
+incident_id,Location,Near Miss,Harm Distribution Basis
+76,Argentina,Harm caused,Age
+57,Australia,Harm caused,Financial means
+100,France,Near miss,Financial means
+1,Global,Unclear/unknown,Age
+13,Global,Harm caused,Disability
+13,Global,Harm caused,Ideology
+14,Global,Harm caused,Ideology
+6,Global,Harm caused,National origin or immigrant status
+13,Global,Harm caused,National origin or immigrant status
+32,Global,Unclear/unknown,Other
+78,Global,Harm caused,Other
+6,Global,Harm caused,Race
+13,Global,Harm caused,Race
+14,Global,Harm caused,Race
+16,Global,Harm caused,Race
+19,Global,Unclear/unknown,Race
+49,Global,Unclear/unknown,Race
+53,Global,Unclear/unknown,Race
+60,Global,Unclear/unknown,Race
+102,Global,Unclear/unknown,Race
+6,Global,Harm caused,Religion
+13,Global,Harm caused,Religion
+14,Global,Harm caused,Religion
+61,Global,Near miss,Religion
+88,Global,Harm caused,Religion
+6,Global,Harm caused,Sex
+12,Global,Unclear/unknown,Sex
+13,Global,Harm caused,Sex
+18,Global,Harm caused,Sex
+19,Global,Unclear/unknown,Sex
+47,Global,Unclear/unknown,Sex
+13,Global,Harm caused,Sexual orientation or gender identity
+14,Global,Harm caused,Sexual orientation or gender identity
+15,Global,Unclear/unknown,Sexual orientation or gender identity
+94,Italy,Harm caused,Other
+101,Netherlands,Harm caused,National origin or immigrant status
+48,New Zealand,Unclear/unknown,Race
+89,New Zealand,Harm caused,Race
+89,New Zealand,Harm caused,Religion
+27,Soviet Union,Near miss,Geography
+43,UK,Harm caused,Race
+87,UK,Unclear/unknown,Race
+37,UK,Near miss,Sex
+43,UK,Harm caused,Sex
+87,UK,Unclear/unknown,Sex
+91,USA,Unclear/unknown,Age
+93,USA,Harm caused,Age
+73,USA,Harm caused,Geography
+91,USA,Unclear/unknown,Ideology
+73,USA,Harm caused,National origin or immigrant status
+9,USA,Harm caused,Other
+91,USA,Unclear/unknown,Other
+42,USA,Unclear/unknown,Other
+79,USA,Unclear/unknown,Race
+11,USA,Harm caused,Race
+73,USA,Harm caused,Race
+93,USA,Harm caused,Race
+99,USA,Unclear/unknown,Race
+74,USA,Harm caused,Race
+92,USA,Harm caused,Sex
+93,USA,Harm caused,Sex
