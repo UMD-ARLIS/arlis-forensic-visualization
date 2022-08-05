@@ -1,7 +1,7 @@
 """ AIID provides weekly snapshots of their database in tar.bz2
 Use this program to easily extract the database file into spreadsheets
 
-Just replade the NAME variable with the name/path of the tar.bz2 file 
+Just replace the NAME variable with the name/path of the tar.bz2 file 
 downloaded from the AIID website.
 
 EXAMPLE: NAME = 'database.tar.bz2'
